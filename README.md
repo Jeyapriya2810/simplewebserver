@@ -1,5 +1,6 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:28/04/2025
+## Name:JEYAPRIYA.J Reg no:212224100027
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the list of protocols in TCP/IP Protocol Suite.
